@@ -11,5 +11,6 @@ public class WarehouseService {
 
 		// TODO: Task 4
 
+		return null;
 	}
 }
